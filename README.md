@@ -58,6 +58,6 @@ OpenAI API 키가 저장된 파일이었으나, 보안 문제로 삭제되었습
 다음은 응급실 추천 시스템의 실행 결과 화면 예시입니다.
 
 <div style="display: flex;">
-    <img src="fastapi.jpg" alt="api입력" style="width: 200px; margin-right: 10px;">
-    <img src="api 결과.jpg" alt="api결과" style="width: 200px;">
+    <img src="fastapi.jpg" alt="api입력" style="width: 500px; margin-right: 10px;">
+    <img src="api 결과.jpg" alt="api결과" style="width: 500px;">
 </div>
